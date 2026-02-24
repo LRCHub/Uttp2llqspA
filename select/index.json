@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミルキー(Milky) / 初音ミク",
+  "base_artist": "HotaRu",
+  "createdAt": "2026-02-24T13:21:31.497102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルキー",
+      "artist": "HotaRu",
+      "has_synced": false,
+      "path": "select/pl_01_ミルキー_HotaRu.txt"
+    }
+  ]
+}
